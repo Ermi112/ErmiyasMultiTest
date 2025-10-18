@@ -14,5 +14,4 @@ Here are my GitHub repositories showcasing my work in Python, AI, and R:
 4. [Seurant R Notebook](https://github.com/Ermi112/powerRobo_Py_project/blob/master/R_project/seurant_R.ipynb)  
    A Jupyter notebook for step-by-step tracking and analyzing data in R, with example workflows and visualizations.
 
-
 ---
